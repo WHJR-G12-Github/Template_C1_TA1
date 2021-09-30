@@ -1,26 +1,29 @@
-# Importing 'pygame' 
+# Import 'pygame' 
 
 
-# Initialising 'pygame' 
-
-# Creating game window of width 400 and height 600
+# Initialize 'pygame' 
 
 
-# Setting the title of the game
+# Create a game window of width 400 and height 600 and name it as 'screen'
 
 
-# Loading the background image
-
-# Displaying the 'background_image' at the location [0,0]
+# Set the title of the game as 'Shooting Spaceship"
 
 
-# Creating BLUE color using RGB combinations and naming it as 'BLUE'
+# Load the background image and store it in the name 'background_image'
 
 
-# Creating a rectangle at the coordinates of 200,200 with width and height as 30
+# Display the 'background_image' at the location [0,0]
+
+
+# Create BLUE color using RGB combinations and name it as 'BLUE'
+
+
+# Create a rectangle at the coordinates of 200,200 with width and height as 30
 # Name the rectangle as 'player'
 
-# Drawing the 'player' rectangle in the screen in BLUE color
+
+# Draw the 'player' rectangle on the screen in BLUE color
 
 
-# Updating the screen after adding the background image and drawing the rectangle
+# Update the screen after adding the background image and drawing the rectangle
